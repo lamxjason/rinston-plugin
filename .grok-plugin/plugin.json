@@ -1,0 +1,14 @@
+{
+  "name": "rinston",
+  "displayName": "Rinston",
+  "version": "0.1.0",
+  "description": "AI phone front desk: US numbers so agents can call and text. AI phone front desk: US numbers so agents can call and text via MCP.",
+  "author": {
+    "name": "Rinston",
+    "email": "lamjason92@gmail.com"
+  },
+  "license": "MIT",
+  "homepage": "https://rinston.com",
+  "keywords": ["grok", "plugin", "rinston", "phone", "sms", "voice", "front-desk", "mcp"],
+  "mcpServers": "mcp.json"
+}
